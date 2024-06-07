@@ -23,11 +23,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Tic Tac Toe Smoke Test Demo
+Tic-Tac-Toe Smoke Test Demo
 
-![Tic Tac Toe Smoke Test Demo](/assets/smoke_test_demo.gif)
+![Tic-Tac-Toe Smoke Test Demo](/assets/smoke_test_demo.gif)
 
-This project is centered around a QA Engineer Interview exercise, wherein the candidate is asked to report software issues as well automate test scripts. The web application is a simple tic tac toe game and it has a multitude of issues leading to an overall poor user experience. Still there's enough here to work with with and automate a number of critical path test scenarios. 
+This project is centered around a QA Engineer Interview exercise, wherein the candidate is asked to report software issues as well as automate test scripts. The web application is a simple tic-tac-toe game and it has a multitude of issues leading to an overall poor user experience. Still there's enough here to work with and automate a number of critical path test scenarios. 
 
 Here's why we're doing this:
 * Demonstrates bug reporting style, and touches on depth and breadth of test methodologies 
@@ -37,7 +37,7 @@ Here's why we're doing this:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This repository contains Cypress test scrpts for the Tic Tac Toe game hosted [Roomy Fire Houseboat](https://roomy-fire-houseboat.glitch.me/). Please follow these steps if you'd like to clone the repo so you can can see the files yourself.
+This repository contains Cypress test scripts for the Tic-Tac-Toe game hosted [Roomy Fire Houseboat](https://roomy-fire-houseboat.glitch.me/). Please follow these steps if you'd like to clone the repo so you can can see the files yourself.
 
 ### Prerequisites
 

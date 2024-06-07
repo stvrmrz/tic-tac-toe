@@ -1,4 +1,4 @@
-describe('Tic Tac Toe Game Functional Tests', () => {
+describe('Tic-Tac-Toe Game Functional Tests', () => {
   
   // Test to check if the game page loads successfully
   it('should be able to load the game page', () => {
