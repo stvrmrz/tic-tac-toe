@@ -37,7 +37,7 @@ Here's why we're doing this:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This repository contains Cypress test scripts for the Tic-Tac-Toe game hosted [Roomy Fire Houseboat](https://roomy-fire-houseboat.glitch.me/). Please follow these steps if you'd like to clone the repo so you can can see the files yourself.
+This repository contains Cypress test scripts for the Tic-Tac-Toe game hosted at [Roomy Fire Houseboat](https://roomy-fire-houseboat.glitch.me/). Please follow these steps if you'd like to clone the repo so you can can see the files yourself.
 
 ### Prerequisites
 
